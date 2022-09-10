@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/Self_Learning-React-Tailwindcss--basic--darkmode/static/css/main.0289de72.css",
+    "main.js": "/Self_Learning-React-Tailwindcss--basic--darkmode/static/js/main.88af940f.js",
+    "static/media/isocard.svg": "/Self_Learning-React-Tailwindcss--basic--darkmode/static/media/isocard.8162d70aafa5b3c9dd11776960c17d02.svg",
+    "index.html": "/Self_Learning-React-Tailwindcss--basic--darkmode/index.html",
+    "static/media/checkpoint.svg": "/Self_Learning-React-Tailwindcss--basic--darkmode/static/media/checkpoint.e6fb772578b79e07d821b8839c859a38.svg",
+    "main.0289de72.css.map": "/Self_Learning-React-Tailwindcss--basic--darkmode/static/css/main.0289de72.css.map",
+    "main.88af940f.js.map": "/Self_Learning-React-Tailwindcss--basic--darkmode/static/js/main.88af940f.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.0289de72.css",
+    "static/js/main.88af940f.js"
+  ]
+}
